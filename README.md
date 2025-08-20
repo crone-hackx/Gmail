@@ -113,9 +113,9 @@ async function sendCode() {
   console.log(await res.json());
 }
 </script>
+</div>
 
 
----
 
 💖 Support Development
 
@@ -127,7 +127,7 @@ If you find it useful, consider supporting me:
     <img src="https://img.shields.io/badge/💖%20Donate-Support%20this%20project-pink?style=for-the-badge" alt="Donate Button"/>
   </a>
 </p>
----
+
 
 👨‍💻 Created By World of Technology 4⁰3 Team
 
