@@ -101,7 +101,7 @@ Or just click this 👇
 
 ---
 
-🌍 Example Frontend Integration
+##🌍 Example Frontend Integration
 
 <script>
 async function sendCode() {
@@ -117,7 +117,7 @@ async function sendCode() {
 
 
 
-💖 Support Development
+##💖 Support Development
 
 This project is free & open source 🎉
 If you find it useful, consider supporting me:
